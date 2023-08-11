@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-arthee-spring-react-project",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-arthee-spring-react-project",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
